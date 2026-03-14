@@ -1,12 +1,27 @@
-# 🚀 From MVP to Scaling with AI Agents
-**Hult Prize Bangladesh — Workshop by Md. Ahsanul Mobin | 13 March 2026**
+# Scale Shift: Hult Prize Execution Bootcamp | Workshop 2
+**From Problem to MVP (Execution Basics)**
 
 > *"If you are not embarrassed by the first version of your product, you are not shipping fast enough."* — Hussain Elius, Co-founder, Pathao
 
 ---
 
+![Scale Shift: Hult Prize Execution Bootcamp Workshop 2 Poster](./slides/W2.1%20SS_HPEB.png)
+
+This session is part of the **Scale Shift: Hult Prize Execution Bootcamp**, designed to support Campus Round winning teams across Bangladesh as they prepare for the national stage. The workshop focuses on helping teams move from problem identification to building practical Minimum Viable Products (MVPs), with a strong emphasis on validation, rapid prototyping, and execution.
+
+## Session Details
+- **Resource Person:** Md. Ahsanul Mobin
+- **Role:** CPTO, Somadhan | Former Product Manager, WeGro Global
+- **Date:** 13 March 2026 (Friday)
+- **Time:** 3:00 PM (GMT+6)
+- **Platform:** Google Meet
+
+Participants will gain practical insights on translating ideas into testable solutions and building MVPs with speed and clarity.
+
+---
+
 ## 📄 Slides
-[Download the session slides →](./slides/HULT_PRIZE_From_MVP_to_Scaling_with_AI_Agents.pdf)
+[Download the session slides →](./slides/HULT%20PRIZE_From%20MVP%20to%20Scaling%20with%20AI%20Agents.pdf)
 
 ---
 
