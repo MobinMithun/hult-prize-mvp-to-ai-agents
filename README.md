@@ -5,7 +5,9 @@
 
 ---
 
-![Scale Shift: Hult Prize Execution Bootcamp Workshop 2 Poster](./slides/scale-shift-workshop-2-poster.png)
+<p align="center">
+  <img src="slides/W2.1%20SS_HPEB.png" alt="Scale Shift: Hult Prize Execution Bootcamp Workshop 2 Poster" width="700">
+</p>
 
 This session is part of the **Scale Shift: Hult Prize Execution Bootcamp**, designed to support Campus Round winning teams across Bangladesh as they prepare for the national stage. The workshop focuses on helping teams move from problem identification to building practical Minimum Viable Products (MVPs), with a strong emphasis on validation, rapid prototyping, and execution.
 
@@ -22,6 +24,8 @@ Participants will gain practical insights on translating ideas into testable sol
 
 ## 📄 Slides
 [Download the session slides →](./slides/HULT%20PRIZE_From%20MVP%20to%20Scaling%20with%20AI%20Agents.pdf)
+
+[View the slides online →](https://www.slideshare.net/slideshow/from-mvp-to-scaling-with-ai-agents_hult-prize-workshop/286505206)
 
 ---
 
