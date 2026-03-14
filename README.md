@@ -23,9 +23,12 @@ Participants will gain practical insights on translating ideas into testable sol
 ---
 
 ## 📄 Slides
-[Download the session slides →](./slides/HULT%20PRIZE_From%20MVP%20to%20Scaling%20with%20AI%20Agents.pdf)
 
 [View the slides online →](https://www.slideshare.net/slideshow/from-mvp-to-scaling-with-ai-agents_hult-prize-workshop/286505206)
+
+<p align="center">
+  <img src="slides/SlideCoverPoster.jpg" alt="From MVP to Scaling with AI Agents slide cover poster" width="700">
+</p>
 
 ---
 
@@ -43,7 +46,7 @@ Participants will gain practical insights on translating ideas into testable sol
 ---
 
 ## 💬 Discussion & Q&A
-Have questions from the session? **[Open a Discussion →](../../discussions)**
+Have questions from the session? **[Open a Discussion →](https://github.com/MobinMithun/hult-prize-mvp-to-ai-agents/discussions)**
 Or drop an issue and I'll answer it there.
 
 ---
