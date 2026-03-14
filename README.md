@@ -13,7 +13,7 @@ This session is part of the **Scale Shift: Hult Prize Execution Bootcamp**, desi
 
 ## Session Details
 - **Resource Person:** Md. Ahsanul Mobin
-- **Role:** CPTO, Somadhan | Former Product Manager, WeGro
+- **Role:** CPTO, Somadhan
 - **Date:** 13 March 2026 (Friday)
 - **Time:** 3:00 PM (GMT+6)
 - **Platform:** Google Meet
