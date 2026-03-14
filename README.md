@@ -54,7 +54,7 @@ Or drop an issue and I'll answer it there.
 ## 👤 About the Speaker
 - 🔗 [LinkedIn](https://linkedin.com/in/mobinmithun)
 - 🌐 [Website](https://mobin.somadhan.com)
-- 📧 mobinmithun@gmail.com
+- 📧 [Mail](mailto:mobinmithun@gmail.com)
 - ☕ [Support the Work](https://www.supportkori.com/mobinmithun)
 
 <p align="center">
