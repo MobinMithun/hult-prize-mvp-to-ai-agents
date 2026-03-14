@@ -54,10 +54,10 @@ Or drop an issue and I'll answer it there.
 ## 👤 About the Speaker
 - 🔗 [LinkedIn](https://linkedin.com/in/mobinmithun)
 - 🌐 [Website](https://mobin.somadhan.com)
-- 📧 [Mail](mailto:mobinmithun@gmail.com)
+- 📧 mobinmithun@gmail.com
 - ☕ [Support the Work](https://www.supportkori.com/mobinmithun)
 
-<p align="center">
+<p align="left">
   <a href="https://www.supportkori.com/mobinmithun">
     <img src="slides/mobinmithun-qrcode.png" alt="Support Md. Ahsanul Mobin via Support Kori QR code" width="260">
   </a>
