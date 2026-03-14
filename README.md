@@ -5,13 +5,13 @@
 
 ---
 
-![Scale Shift: Hult Prize Execution Bootcamp Workshop 2 Poster](./slides/W2.1%20SS_HPEB.png)
+![Scale Shift: Hult Prize Execution Bootcamp Workshop 2 Poster](./slides/scale-shift-workshop-2-poster.png)
 
 This session is part of the **Scale Shift: Hult Prize Execution Bootcamp**, designed to support Campus Round winning teams across Bangladesh as they prepare for the national stage. The workshop focuses on helping teams move from problem identification to building practical Minimum Viable Products (MVPs), with a strong emphasis on validation, rapid prototyping, and execution.
 
 ## Session Details
 - **Resource Person:** Md. Ahsanul Mobin
-- **Role:** CPTO, Somadhan | Former Product Manager, WeGro Global
+- **Role:** CPTO, Somadhan | Former Product Manager, WeGro
 - **Date:** 13 March 2026 (Friday)
 - **Time:** 3:00 PM (GMT+6)
 - **Platform:** Google Meet
